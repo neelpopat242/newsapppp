@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 
+
 export class Navbar extends Component {
     render() {
         return (
@@ -15,7 +16,7 @@ export class Navbar extends Component {
                             <a className="nav-link active" aria-current="page" href="/">Home</a>
                             </li>
                             <li className="nav-item">
-                            <a className="nav-link" href="/">About Devs</a>
+                            <a className="nav-link" href="About.js">About Devs</a>
                             </li>
                         </ul>                        
                         </div>
