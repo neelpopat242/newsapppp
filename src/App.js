@@ -14,7 +14,7 @@ export default class App extends Component {
       <div>
         <Navbar/>
         <h2 className="text-center">News Api - India's Top News </h2>
-        <Newsdetail pageSize="12" country="in" category="giit" apiKey="6fdfb72de5f148ca9f2c80af3ada7ba8"/>
+        <Newsdetail pageSize="12" country="in" category="" apiKey="6fdfb72de5f148ca9f2c80af3ada7ba8"/>
         
         
       </div>
